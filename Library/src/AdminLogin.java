@@ -16,7 +16,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JPasswordField;
-
+// This is for demo//
 public class AdminLogin extends JFrame {
 	static AdminLogin frame;
 	private JPanel contentPane;
